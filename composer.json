@@ -1,0 +1,19 @@
+{
+    "name": "kenneth/surveyjs",
+    "description": "Survey Js package for Laravel 8 Framework.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kenneth Kipchumba",
+            "email": "branrono@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SurveyJs\\Survey": "src/"
+        }
+    }
+}
