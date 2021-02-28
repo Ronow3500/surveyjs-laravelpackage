@@ -15,5 +15,12 @@
         "psr-4": {
             "SurveyJs\\Survey\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "SurveyJs\\Survey\\SurveyServiceProvider"
+            ]
+        }
     }
 }
