@@ -1,6 +1,6 @@
 {
     "name": "kenneth/surveyjs",
-    "description": "Survey Js package for Laravel 8 Framework.",
+    "description": "Laravel 8 Framework package for Survey Js Library.",
     "type": "library",
     "license": "MIT",
     "authors": [
