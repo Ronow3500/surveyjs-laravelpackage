@@ -2,6 +2,9 @@
 
 ##This package is intended to help integrate Survey Js Library into Laravel 8 Framework
 
+##Link to Survey Js Website: https://surveyjs.io/
+##Link to Laravel Framework Website: https://laravel.com/
+
 ##Download css and js folders from link and place them on your public folder
 
 ##On Config/app.php file under 'providers' /*Application Service Providers*/ add the following line:
