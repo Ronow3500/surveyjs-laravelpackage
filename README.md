@@ -6,7 +6,7 @@
 
 ##Link to Laravel Framework Website: https://laravel.com/
 
-##Download css and js zip files from https://kennethkipchumba.com/css.zip and https://kennethkipchumba.com/js.zip respectively then place their unzipped folders on your public folder
+##Download css and js zip files from https://kennethkipchumba.com/css.zip and https://kennethkipchumba.com/js.zip respectively then unzip their unzipped folders on your public folder
 
 ##Type the first segment of your url to be 'surveyjs' i.e 'http://yourdomain.com/surveyjs'
 
